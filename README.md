@@ -1,4 +1,4 @@
-#Molonode
+#Moloruby
 
 [Moloflollo text generator](http://www.moloflollo.com) official ruby gem.
 
