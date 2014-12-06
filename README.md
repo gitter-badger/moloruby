@@ -11,7 +11,7 @@ A simple and comfortable way to put sample text on your app's prototypes!
 This code:
 
 ```ruby
-require moloruby
+require 'moloruby'
 
 puts Moloruby.get_words(3)
 ```
