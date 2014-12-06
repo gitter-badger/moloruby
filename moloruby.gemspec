@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.email       = 'kerunaru@gmail.com'
   s.files       = ["lib/moloruby.rb"]
   s.homepage    = 'http://github.com/kerunaru/moloruby'
-  s.license     = ['Ruby']
+  s.license     = 'MIT'
   s.required_ruby_version = '>= 2.0.0'
   s.rubygems_version = "2.2.2"
   s.add_dependency(%q<json>, ["~> 1.8.1"])
